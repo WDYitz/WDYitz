@@ -6,7 +6,7 @@
  - 🕶  Aprendendo JavaScript.
  - 🧪 Linguagens mais utilizadas.
  
- <div align="center">
+ <div margin-bottom="20px">
  <img width="120px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
  <img width="120px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
  <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
