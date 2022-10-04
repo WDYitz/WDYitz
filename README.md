@@ -17,10 +17,11 @@
  <br>
  
  - 🎲  Rede Sociais.
+
+ <img href="https://w7.pngwing.com/pngs/938/134/png-transparent-influencer-marketing-social-media-instagram-youtube-facebook-social-icons-purple-violet-text-thumbnail.png">
  <a href="">
- <ion-icon name="logo-instagram"></ion-icon>
+
  
- <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
-<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+ 
 
 
