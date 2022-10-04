@@ -15,6 +15,7 @@
  
  .container_img{
  display:flex;
+ background-color:white;
  }
  
 </style>
