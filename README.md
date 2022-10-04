@@ -18,7 +18,7 @@
  
  - 🎲  Rede Sociais.
 
- <img href="https://w7.pngwing.com/pngs/938/134/png-transparent-influencer-marketing-social-media-instagram-youtube-facebook-social-icons-purple-violet-text-thumbnail.png">
+ <img href="">
  <a href="">
 
  
