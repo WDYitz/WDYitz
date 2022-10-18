@@ -12,8 +12,8 @@
  <img width="120px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
  <img width="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
  <img width="120px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
- <img width="120px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
- <img width="120px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
+ <img width="120px" src="https://cdn-icons-png.flaticon.com/512/5968/5968409.png" />
+ <img width="120px" src="https://growiz.com.br/wp-content/uploads/2021/01/ms-dotnet-3-1024x1024.png" />
  </div>
  <br>
  
