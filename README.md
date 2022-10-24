@@ -2,7 +2,7 @@
 ### Hi there 👋
 ### Meu nome é Yitzhak, Sou estudando de TI do Senac.
 
- - 💎 Aprendendo Back-End/Front-End.
+ - 💎 Back-End/Front-End.
  - 🥇 Futuro Desenvolvedor Front End.
  - 🕶  Aprendendo JavaScript.
  - 🧪 Linguagens mais utilizadas.
