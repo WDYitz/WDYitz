@@ -16,7 +16,7 @@
   </p>
   
   <p align="center">
-  Penso em aprender Python <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> e Php <img  width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /> mais para frente.
+  Penso em aprender Python <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> mais para frente.
   </p>
   
 </div>
