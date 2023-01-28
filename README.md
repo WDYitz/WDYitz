@@ -8,7 +8,7 @@
   </h1>
   
   <p align="center">
-    Futuro Desenvolvedor Back End/Front End.
+    Desenvolvedor Back End/Front End.
   </p>
   
   <p align="center">
@@ -16,7 +16,7 @@
   </p>
   
   <p align="center">
-  Penso em aprender React e Node no futuro.
+  Proximas linguagems que irei aprender > > > React e Node.
   </p>
   
 </div>
