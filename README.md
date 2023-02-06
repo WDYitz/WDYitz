@@ -8,7 +8,7 @@
   </h1>
   
   <p align="center">
-    Desenvolvedor Back End/Front End.
+    Desenvolvedor Front End.
   </p>
   
   <p align="center">
@@ -16,7 +16,7 @@
   </p>
   
   <p align="center">
-  Proximas linguagems que irei aprender > > > React e Node.
+  Sempre tentando evoluir.
   </p>
   
 </div>
