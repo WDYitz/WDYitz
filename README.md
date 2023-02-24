@@ -1,22 +1,23 @@
 <div>
   
   <h1 align="center">
-    Opa Tudo bom? <br/><br/>
-    Eu sou o 
+   Welcome to my page!
+  <br/><br/>
+    I'm
     <a href="https://www.linkedin.com/in/yitzhak-ben-rodriguez-70797b208/">Yitzhak B. Rodriguez 😃️</a>
     <br/><br/>
   </h1>
   
   <p align="center">
-    Desenvolvedor Front End.
+    Frontend developer born in 🇺🇸 Miami, Florida, currently living in Santos, 🇧🇷 Brazil.
   </p>
   
   <p align="center">
-   Cursando "Tecnologia da informação" na instituição SENAC.
+   Information Systems student at Descomplica College, Graduating in Information Technology (IT) at SENAC institution. 🖥️👩🏾‍💻
   </p>
   
   <p align="center">
-  Sempre tentando evoluir.
+  Always trying to improve my skills.
   </p>
   
 </div>
