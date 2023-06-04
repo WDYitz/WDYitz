@@ -30,7 +30,7 @@
 </div>
 
 <div align="center" valign="top"><br>
-   <img align="center" alt="React" height="60" width="60" src="https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon-thumbnail.png" />
+   <img align="center" alt="React" height="60" width="60" src="![image](https://github.com/WDYitz/WDYitz/assets/112505107/bcfeca1d-73a0-4b5c-b8e3-139ffa13424d)" />
   <img align="center" alt="Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
