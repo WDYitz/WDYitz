@@ -17,7 +17,7 @@
   </p>
   
   <p align="center">
-    Always trying to improve my skills.
+    Always trying to improve my skills. <br/>
     Portfolio made with React https://wdyitz.github.io/PortfolioREACT/
   </p>
   
