@@ -18,8 +18,12 @@
   
   <p align="center">
     Always trying to improve my skills. <br/>
+  </p>
+
+  <p align="center">
     Portfolio made with React https://wdyitz.github.io/PortfolioREACT/
   </p>
+  
   
 </div>
 
