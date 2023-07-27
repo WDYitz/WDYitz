@@ -13,7 +13,7 @@
   </p>
   
   <p align="center">
-   Information Systems student at Descomplica College, Graduating in Information Technology (IT) at SENAC institution. 🖥️👩🏾‍💻
+   Information Systems student at Descomplica College, Graduated in Information Technology (IT) at SENAC institution. 🖥️👩🏾‍💻
   </p>
   
   <p align="center">
