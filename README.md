@@ -28,10 +28,10 @@
 <div>
   <a href="https://github.com/WDYitz" align="center">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=WDYitz&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-     [![card](https://github-readme-stats.vercel.app/api?username=WDYitz&theme=Radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WDYitz&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
+[![card](https://github-readme-stats.vercel.app/api?username=WDYitz&theme=Radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="left" align="top"><br>
     <img align="center" alt="React" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
