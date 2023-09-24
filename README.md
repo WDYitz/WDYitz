@@ -30,11 +30,9 @@
  <a href="https://github.com/WDYitz" align="center">
      
 ![card](https://github-readme-stats.vercel.app/api?username=WDYitz&theme=radical&show_icons=true)
-    
-![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=WDYitz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=WDYitz&theme=radical&layout=compact)
 
-
-  </a>
+</a>
 
 </div>
 
