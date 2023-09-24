@@ -7,6 +7,8 @@
     <a href="https://www.linkedin.com/in/yitzhak-ben-rodriguez-70797b208/">Yitzhak B. Rodriguez 😃️</a>
     <br/><br/>
   </h1>
+
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
   
   <p align="center">
     Frontend developer born in 🇺🇸 Miami, Florida, currently living in Santos, 🇧🇷 Brazil.
