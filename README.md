@@ -9,19 +9,19 @@
     <br/><br/>
   </h1>
 
-<p align="center">
+<p align="left">
     Frontend developer born in 🇺🇸 Miami, Florida, currently living in Santos, 🇧🇷 Brazil.
   </p>
 
-<p align="center">
+<p align="left">
    Information Systems student at Descomplica College, Graduated in Information Technology (IT) at SENAC institution. 🖥️👩🏾‍💻
   </p>
 
- <p align="center">
+ <p align="left">
     Always trying to improve my skills. <br/>
   </p>
 
-   <p align="center">
+   <p align="left">
     Portfolio made with React https://wdyitz.github.io/PortfolioREACT/
   </p>
 
