@@ -3,23 +3,27 @@
 
   <h1 align="left">
    Welcome to my page!
-  <br/><br/>
+  <br/>
     I'm
     <a href="https://www.linkedin.com/in/yitzhak-ben-rodriguez-70797b208/">Yitzhak B. Rodriguez ☕💻</a>
     <br/><br/>
   </h1>
 
-<p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
-</p>
+<p align="center">
+    Frontend developer born in 🇺🇸 Miami, Florida, currently living in Santos, 🇧🇷 Brazil.
+  </p>
 
-<p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
-</p>
+<p align="center">
+   Information Systems student at Descomplica College, Graduated in Information Technology (IT) at SENAC institution. 🖥️👩🏾‍💻
+  </p>
 
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
+ <p align="center">
+    Always trying to improve my skills. <br/>
+  </p>
+
+   <p align="center">
+    Portfolio made with React https://wdyitz.github.io/PortfolioREACT/
+  </p>
 
 <p align="left">
   <a href="#" alt="Gmail">
