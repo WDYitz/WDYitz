@@ -22,7 +22,7 @@
 </p>
 
 <p align="left">
-    Portfolio made with React https://wdyitz.github.io/PortfolioREACT/
+    Portfolio https://wdyitz.github.io/PortfolioREACT/
 </p>
 
 <div>
