@@ -19,6 +19,7 @@
 
 <p align="left">
     Always trying to improve my skills. <br/>
+   Specializing in React
 </p>
 
 <p align="left">
