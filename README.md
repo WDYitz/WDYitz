@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-    Always trying to improve my skills. <br/>
+    Always trying to lean something new. <br/>
    Specializing in React
 </p>
 
