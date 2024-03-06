@@ -53,13 +53,5 @@
 </div>
 </br>
 </br>
-
-
 </br> 
 </br>
-
-<img src="https://raw.githubusercontent.com/WDYitz/WDYitz/output/snake.svg" alt="Snake animation" />
-
-
-
-
