@@ -5,7 +5,7 @@
   </br>
     I'm
     <a href="https://www.linkedin.com/in/yitzhak-ben-rodriguez-70797b208/">Yitzhak B. Rodriguez ☕💻</a>
-   </br>
+   </hr>
 </h1>
 
 <p align="left">
