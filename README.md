@@ -47,8 +47,6 @@
    <img align="center" alt="TAILWIND" height="60" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
    <img align="center" alt="POSTGRESQL" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
    <img align="center" alt="PRISMA" height="60" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
-          
-   
 </div>
 </br>
 </br>
