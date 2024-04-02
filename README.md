@@ -20,6 +20,12 @@
     Constantly learning new technologies 🚀 
 </p>
 
+<a href="https://wdyitz.github.io/PortfolioREACT/">
+   <img align="center" alt="PORTFOLIO" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/yitzhak-ben-rodriguez-70797b208/">
+   <img align="center" alt="LINKEDIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <div display="flex" justify="around">
   <img src="https://github-readme-stats.vercel.app/api?username=WDYitz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -50,9 +56,4 @@
 </br>
 </br>
 
-<a href="https://wdyitz.github.io/PortfolioREACT/">
-   <img align="center" alt="PORTFOLIO" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/yitzhak-ben-rodriguez-70797b208/">
-   <img align="center" alt="LINKEDIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+
