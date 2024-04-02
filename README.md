@@ -26,7 +26,6 @@
 <a href="https://www.linkedin.com/in/yitzhak-ben-rodriguez-70797b208/">
    <img align="center" alt="LINKEDIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 </br>
 
 <div display="flex" justify="around">
@@ -34,8 +33,6 @@
    
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WDYitz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-
 
 <div align="left" align="top" ><br>
    <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -56,6 +53,3 @@
 </div>
 
 </br>
-</br>
-
-
