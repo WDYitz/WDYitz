@@ -20,10 +20,10 @@
     Constantly learning new technologies 🚀 
 </p>
 
-<a href="https://wdyitz.github.io/PortfolioREACT/">
+<a href="https://wdyitz.github.io/PortfolioREACT/" target="_blank">
    <img align="center" alt="PORTFOLIO" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/yitzhak-ben-rodriguez-70797b208/">
+<a href="https://www.linkedin.com/in/yitzhak-ben-rodriguez-70797b208/" target="_blank">
    <img align="center" alt="LINKEDIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </br>
