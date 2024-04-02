@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-    Constantly learning new technologies 🚀 <br/>
+    Constantly learning new technologies 🚀 
 </p>
 
 <div>
