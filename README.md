@@ -13,16 +13,11 @@
 </p>
 
 <p align="left">
-   Information Systems student at Descomplica College, Graduated in Information Technology (IT) at SENAC institution. 🖥️👩🏾‍💻
+   Information Systems student at Descomplica College, Graduated in Information Technology (IT) at SENAC institution. ⌨️🖥️
 </p>
 
 <p align="left">
-    Always trying to learn something new. <br/>
-   Specializing in React
-</p>
-
-<p align="left">
-    Portfolio https://wdyitz.github.io/PortfolioREACT/
+    Constantly learning new technologies 🚀 <br/>
 </p>
 
 <div>
@@ -59,5 +54,5 @@
    <img align="center" alt="PORTFOLIO" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/yitzhak-ben-rodriguez-70797b208/">
-   <img align="center" alt="PORTFOLIO" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+   <img align="center" alt="LINKEDIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
