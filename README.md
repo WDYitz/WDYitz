@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-<h2 align="left">
+<h2 align="left" width="50%">
    Welcome to my page!
   </br>
     I'm
