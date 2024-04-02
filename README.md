@@ -27,6 +27,8 @@
    <img align="center" alt="LINKEDIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+</br>
+
 <div display="flex" justify="around">
   <img src="https://github-readme-stats.vercel.app/api?username=WDYitz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
    
