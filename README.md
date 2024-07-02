@@ -20,7 +20,7 @@
     Constantly learning new technologies 🚀 
 </p>
 
-<a href="https://wdyitz.github.io/PortfolioREACT/" target="blank">
+<a href="" target="blank">
    <img align="center" alt="PORTFOLIO" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/yitzhak-ben-rodriguez-70797b208/" target="blank">
