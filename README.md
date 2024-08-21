@@ -23,7 +23,7 @@
 <a href="" target="blank">
    <img align="center" alt="PORTFOLIO" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/yitzhak-ben-rodriguez-70797b208/" target="blank">
+<a href="https://www.linkedin.com/in/yitzhakbenrodriguez/" target="blank">
    <img align="center" alt="LINKEDIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </br>
