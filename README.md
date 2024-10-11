@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-    Constantly learning new technologies 🚀 
+     Driven by the desire to learn more 🔥 
 </p>
 
 <a href="" target="blank">
