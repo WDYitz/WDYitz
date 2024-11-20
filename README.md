@@ -20,7 +20,7 @@
      Driven by the desire to learn more 🔥 
 </p>
 
-<a href="" target="blank">
+<a href="https://my-portfolio-ten-beige-63.vercel.app/" target="blank">
    <img align="center" alt="PORTFOLIO" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/yitzhakbenrodriguez/" target="blank">
