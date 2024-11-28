@@ -9,7 +9,7 @@
 </h2>
 
 <p align="left">
-   Full-Stack Developer born in 🇺🇸 Miami, Florida, currently living in Santos, 🇧🇷 Brazil.
+   Fullstack Developer born in 🇺🇸 Miami, Florida, currently living in Santos, 🇧🇷 Brazil.
 </p>
 
 <p align="left">
