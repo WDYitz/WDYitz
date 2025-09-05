@@ -9,7 +9,7 @@
 </h2>
 
 <p align="left">
-   Software Developer born in 🇺🇸 Miami, Florida, currently living in 🇧🇷 Brazil.
+   Software Developer, currently living in 🇧🇷 Brazil.
 </p>
 
 <p align="left">
