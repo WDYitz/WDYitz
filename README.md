@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <h2 align="left" width="50%">
-   Welcome to my page!
+   Welcome!!
   </br>
     I'm
     <a href="https://www.linkedin.com/in/yitzhak-ben-rodriguez-70797b208/">Yitzhak B. Rodriguez ☕ 💻</a>
