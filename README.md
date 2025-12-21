@@ -16,9 +16,6 @@
    Information Systems student at Descomplica College, Graduated in Information Technology (IT) at SENAC institution. ⌨️🖥️
 </p>
 
-<p align="left">
-     Driven by the desire to learn more 🔥 
-</p>
 
 <a href="https://my-portfolio-ten-beige-63.vercel.app/" target="blank">
    <img align="center" alt="PORTFOLIO" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/>
