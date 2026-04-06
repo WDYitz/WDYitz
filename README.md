@@ -9,11 +9,7 @@
 </h2>
 
 <p align="left">
-   Software Developer, currently living in 🇧🇷 Brazil.
-</p>
-
-<p align="left">
-   Information Systems student at Descomplica College, Graduated in Information Technology (IT) at SENAC institution. ⌨️🖥️
+   Software developer passionate about web technologies, with an associate degre in Information Technology (IT) and currently pursuing a bachelor degree in Information Systems. ⌨️🖥️
 </p>
 
 
