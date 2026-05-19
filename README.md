@@ -9,7 +9,7 @@
 </h2>
 
 <p align="left">
-   Software developer passionate about web technologies, with an associate degre in Information Technology (IT) and currently pursuing a bachelor degree in Information Systems. ⌨️🖥️
+   Frontend Engineer passionate about web technologies, with an associate degre in Information Technology (IT) and currently pursuing a bachelor degree in Information Systems. ⌨️🖥️
 </p>
 
 
